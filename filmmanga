@@ -1,4 +1,4 @@
-{
+ {
     "movies_list": [
         {
             "title": "Tokyo Ghoul  Il Film",
@@ -7,7 +7,7 @@
             "links": [
                 {
                     "url": "https://verystream.com/e/8KvcsBbE3io/",
-                    "quality": "SD"
+                    "quality": "HD"
                 }
             ]
         },
@@ -18,7 +18,7 @@
             "links": [
                 {
                     "url": "https://verystream.com/e/UNZCKAt1xzi/",
-                    "quality": "SD"
+                    "quality": "HD"
                 }
             ]
         },
@@ -29,18 +29,18 @@
             "links": [
                 {
                     "url": "https://verystream.com/e/hfSjaRiwmEs/",
-                    "quality": "SD"
+                    "quality": "HD"
                 }
             ]
         },
         {
-            "title": "Limmortale",
+            "title": "L'immortale",
             "year": "",
             "tmdb_id": "426284",
             "links": [
                 {
                     "url": "https://verystream.com/stream/a5emA71S612/",
-                    "quality": "SD"
+                    "quality": "HD"
                 }
             ]
         },
@@ -51,7 +51,7 @@
             "links": [
                 {
                     "url": "https://verystream.com/e/3CjfYbqnzq9/",
-                    "quality": "SD"
+                    "quality": "HD"
                 }
             ]
         },
@@ -62,7 +62,7 @@
             "links": [
                 {
                     "url": "https://verystream.com/e/9Bnidvcpz1N",
-                    "quality": "SD"
+                    "quality": "HD"
                 }
             ]
         },
@@ -73,7 +73,7 @@
             "links": [
                 {
                     "url": "https://oload.biz/embed/k7809wuO-Qc",
-                    "quality": "SD"
+                    "quality": "HD"
                 }
             ]
         },
@@ -84,7 +84,7 @@
             "links": [
                 {
                     "url": "https://verystream.com/e/cK1L3fSAfKy/",
-                    "quality": "SD"
+                    "quality": "HD"
                 }
             ]
         },
@@ -95,12 +95,9 @@
             "links": [
                 {
                     "url": "https://verystream.com/e/Xk7V6Nu8VTA/",
-                    "quality": "SD"
-                },
-                {
-                    "url": "https://verystream.com/e/Xk7V6Nu8VTA/",
-                    "quality": "SD"
+                    "quality": "HD"
                 }
+               
             ]
         },
         {
@@ -110,7 +107,7 @@
             "links": [
                 {
                     "url": "https://verystream.com/e/fXH9TBpFBVV/",
-                    "quality": "SD"
+                    "quality": "HD"
                 }
             ]
         },
@@ -121,18 +118,18 @@
             "links": [
                 {
                     "url": "https://verystream.com/e/f9B6fSZCeur/",
-                    "quality": "SD"
+                    "quality": "HD"
                 }
             ]
         },
         {
             "title": "Attack on Titan LIVE ACTION SUB ITA  Episodio 2",
             "year": "",
-            "tmdb_id": "65242",
+            "tmdb_id": "",
             "links": [
                 {
                     "url": "https://verystream.com/e/3bgE4CxjbGe/",
-                    "quality": "SD"
+                    "quality": "HD"
                 }
             ]
         },
@@ -143,7 +140,7 @@
             "links": [
                 {
                     "url": "https://verystream.com/e/WgN49J5F2Lg/",
-                    "quality": "SD"
+                    "quality": "HD"
                 }
             ]
         },
@@ -154,7 +151,7 @@
             "links": [
                 {
                     "url": "https://verystream.com/e/fqtpu5v8CKD/",
-                    "quality": "SD"
+                    "quality": "HD"
                 }
             ]
         },
@@ -165,7 +162,7 @@
             "links": [
                 {
                     "url": "https://verystream.com/stream/fGe9bcKbbiP/",
-                    "quality": "SD"
+                    "quality": "HD"
                 }
             ]
         },
@@ -176,7 +173,38 @@
             "links": [
                 {
                     "url": "https://verystream.com/stream/hYChnffgfX8/",
-                    "quality": "SD"
+                    "quality": "HD"
+                }
+            ]
+        },
+        {
+            "title": "Gantz",
+            "year": "",
+            "tmdb_id": "56832",
+            "links": [
+                {
+                    "url": "https://verystream.com/e/aNgj6FWWTix/",
+                    "quality": "HD"
+                },
+                {
+            "title": "Gantz Perfect Answer",
+            "year": "",
+            "tmdb_id": "74135",
+            "links": [
+                {
+                    "url": "https://verystream.com/e/EmH2qobG6M7/",
+                    "quality": "HD"
+                }
+            ]
+        },
+        {
+            "title": "PARASYTE 2 L'ospite indesiderato",
+            "year": "",
+            "tmdb_id": "",
+            "links": [
+                {
+                    "url": "https://verystream.com/stream/hYChnffgfX8/",
+                    "quality": "HD"
                 }
             ]
         },
@@ -187,20 +215,20 @@
             "links": [
                 {
                     "url": "https://drive.google.com/file/d/0BzViY95DeURpUjcxc1pUbTBFQUE/view",
-                    "quality": "SD"
+                    "quality": "HD"
                 }
             ]
         }
         {
-            "title": "Il ritorno di Kenshiro",
+            "title": "PARASYTE 2 L'ospite indesiderato",
             "year": "",
-            "tmdb_id": "26300",
+            "tmdb_id": "",
             "links": [
                 {
-                    "url": "https://verystream.com/e/ZtaXCWcruFo",
-                    "quality": "SD"
+                    "url": "https://verystream.com/stream/hYChnffgfX8/",
+                    "quality": "HD"
                 }
             ]
         }
-    ]
+    ]   
 }
