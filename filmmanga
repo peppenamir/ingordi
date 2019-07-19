@@ -117,7 +117,7 @@
         {
             "title": "Attack on Titan LIVE ACTION SUB ITA  Episodio 1",
             "year": "",
-            "tmdb_id": "340382",
+            "tmdb_id": "65242",
             "links": [
                 {
                     "url": "https://verystream.com/e/f9B6fSZCeur/",
@@ -187,6 +187,17 @@
             "links": [
                 {
                     "url": "https://drive.google.com/file/d/0BzViY95DeURpUjcxc1pUbTBFQUE/view",
+                    "quality": "SD"
+                }
+            ]
+        }
+        {
+            "title": "Il ritorno di Kenshiro",
+            "year": "",
+            "tmdb_id": "26300",
+            "links": [
+                {
+                    "url": "https://verystream.com/e/ZtaXCWcruFo",
                     "quality": "SD"
                 }
             ]
