@@ -1,28 +1,81 @@
 {
-  "movies_list": [
-    {
-      "title": "Tokyo Ghoul – Il Film",
-      "year": "",
-      "links": [
+    "movies_list": [
         {
-          "url": "https://verystream.com/e/8KvcsBbE3io/",
-          "quality":"720"
-        }
-      ]
-    },
-    {
-      "title": "Bleach",
-      "year": "",
-      "links": [
-        {
-          "url": "https://verystream.com/e/UNZCKAt1xzi/",
-          "quality":"720"
+            "title": "Tokyo Ghoul Il Film",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://verystream.com/e/8KvcsBbE3io/",
+                    "quality": "SD"
+                }
+            ]
         },
         {
-          "url": "",
-          "quality":"FHD"
+            "title": "Bleach",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://verystream.com/e/UNZCKAt1xzi/",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Alita Angelo della battaglia",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://verystream.com/e/hfSjaRiwmEs/",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "L'immortale",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://verystream.com/stream/a5emA71S612/",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Ghost in the Shell ",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://verystream.com/e/3CjfYbqnzq9/",
+                    "quality": "HD"
+                }
+            ]
+        },
+        {
+            "title": "Fullmetal alchemist",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://verystream.com/e/9Bnidvcpz1N",
+                    "quality": "HD"
+                }
+            ]
+        },
+        {
+            "title": "Battle Royale",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://oload.biz/embed/k7809wuO-Qc",
+                    "quality": "HD"
+                }
+            ]
         }
-      ]
-    }
-  ]
+    ]
 }
