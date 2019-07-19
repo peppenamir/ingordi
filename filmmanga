@@ -1,7 +1,7 @@
 {
     "movies_list": [
         {
-            "title": "Tokyo Ghoul Il Film",
+            "title": "Tokyo Ghoul  Il Film",
             "year": "",
             "thumbnail": "",
             "links": [
@@ -23,7 +23,7 @@
             ]
         },
         {
-            "title": "Alita Angelo della battaglia",
+            "title": "Alita  Angelo della battaglia",
             "year": "",
             "thumbnail": "",
             "links": [
@@ -34,7 +34,7 @@
             ]
         },
         {
-            "title": "L'immortale",
+            "title": "L\u2019immortale",
             "year": "",
             "thumbnail": "",
             "links": [
@@ -51,7 +51,7 @@
             "links": [
                 {
                     "url": "https://verystream.com/e/3CjfYbqnzq9/",
-                    "quality": "HD"
+                    "quality": "SD"
                 }
             ]
         },
@@ -62,7 +62,7 @@
             "links": [
                 {
                     "url": "https://verystream.com/e/9Bnidvcpz1N",
-                    "quality": "HD"
+                    "quality": "SD"
                 }
             ]
         },
@@ -73,7 +73,121 @@
             "links": [
                 {
                     "url": "https://oload.biz/embed/k7809wuO-Qc",
-                    "quality": "HD"
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Death Note",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://verystream.com/e/cK1L3fSAfKy/",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Death Note: The Last Name",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://verystream.com/e/Xk7V6Nu8VTA/",
+                    "quality": "SD"
+                },
+                {
+                    "url": "https://verystream.com/e/Xk7V6Nu8VTA/",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Death Note 3: Light Up the New World",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://verystream.com/e/fXH9TBpFBVV/",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Attack on Titan LIVE ACTION SUB ITA  Episodio 1",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://verystream.com/e/f9B6fSZCeur/",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Attack on Titan LIVE ACTION SUB ITA  Episodio 2",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://verystream.com/e/3bgE4CxjbGe/",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Terra Formars SUB ITA",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://verystream.com/e/WgN49J5F2Lg/",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Lupin",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://verystream.com/e/fqtpu5v8CKD/",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "PARASYTE 1 L'ospite indesiderato",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://verystream.com/stream/fGe9bcKbbiP/",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "PARASYTE 2 L'ospite indesiderato",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://verystream.com/stream/hYChnffgfX8/",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "RANMA 1/2",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://drive.google.com/file/d/0BzViY95DeURpUjcxc1pUbTBFQUE/view",
+                    "quality": "SD"
                 }
             ]
         }
