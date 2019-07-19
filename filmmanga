@@ -1,195 +1,227 @@
-{
+ {
     "movies_list": [
         {
             "title": "Tokyo Ghoul  Il Film",
             "year": "",
-            "thumbnail": "",
+            "tmdb_idl": "433945",
             "links": [
                 {
                     "url": "https://verystream.com/e/8KvcsBbE3io/",
-                    "quality": "SD"
+                    "quality": "HD"
                 }
             ]
         },
         {
             "title": "Bleach",
             "year": "",
-            "thumbnail": "https://pad.mymovies.it/filmclub/2017/10/047/locandina.jpg",
+            "tmdb_idl": "420426",
             "links": [
                 {
                     "url": "https://verystream.com/e/UNZCKAt1xzi/",
-                    "quality": "SD"
+                    "quality": "HD"
                 }
             ]
         },
         {
             "title": "Alita  Angelo della battaglia",
             "year": "",
-            "thumbnail": "https://pad.mymovies.it/filmclub/2009/09/251/locandina.jpg",
+            "tmdb_idl": "399579",
             "links": [
                 {
                     "url": "https://verystream.com/e/hfSjaRiwmEs/",
-                    "quality": "SD"
+                    "quality": "HD"
                 }
             ]
         },
         {
             "title": "L'immortale",
             "year": "",
-            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjPFqeCmdq3-FHntLrUfUfKDeozx6CIY_mC_xPwhUl8d2J5NCD",
+            "tmdb_idl": "426284",
             "links": [
                 {
                     "url": "https://verystream.com/stream/a5emA71S612/",
-                    "quality": "SD"
+                    "quality": "HD"
                 }
             ]
         },
         {
             "title": "Ghost in the Shell ",
             "year": "",
-            "thumbnail": "https://pad.mymovies.it/filmclub/2016/04/164/locandina.jpg",
+            "tmdb_idl": "315837",
             "links": [
                 {
                     "url": "https://verystream.com/e/3CjfYbqnzq9/",
-                    "quality": "SD"
+                    "quality": "HD"
                 }
             ]
         },
         {
             "title": "Fullmetal alchemist",
             "year": "",
-            "thumbnail": "",
+            "tmdb_idl": "426285",
             "links": [
                 {
                     "url": "https://verystream.com/e/9Bnidvcpz1N",
-                    "quality": "SD"
+                    "quality": "HD"
                 }
             ]
         },
         {
             "title": "Battle Royale",
             "year": "",
-            "thumbnail": "",
+            "tmdb_idl": "3176",
             "links": [
                 {
                     "url": "https://oload.biz/embed/k7809wuO-Qc",
-                    "quality": "SD"
+                    "quality": "HD"
                 }
             ]
         },
         {
             "title": "Death Note",
             "year": "",
-            "thumbnail": "",
+            "tmdb_idl": "63648",
             "links": [
                 {
                     "url": "https://verystream.com/e/cK1L3fSAfKy/",
-                    "quality": "SD"
+                    "quality": "HD"
                 }
             ]
         },
         {
             "title": "Death Note: The Last Name",
             "year": "",
-            "thumbnail": "",
+            "tmdb_idl": "",
             "links": [
                 {
                     "url": "https://verystream.com/e/Xk7V6Nu8VTA/",
-                    "quality": "SD"
-                },
+                    "quality": "HD"
+                }
                 {
                     "url": "https://verystream.com/e/Xk7V6Nu8VTA/",
-                    "quality": "SD"
+                    "quality": "HD"
                 }
             ]
         },
         {
             "title": "Death Note 3: Light Up the New World",
             "year": "",
-            "thumbnail": "",
+            "tmdb_idl": "20329",
             "links": [
                 {
                     "url": "https://verystream.com/e/fXH9TBpFBVV/",
-                    "quality": "SD"
+                    "quality": "HD"
                 }
             ]
         },
         {
             "title": "Attack on Titan LIVE ACTION SUB ITA  Episodio 1",
             "year": "",
-            "thumbnail": "",
+            "tmdb_idl": "65242",
             "links": [
                 {
                     "url": "https://verystream.com/e/f9B6fSZCeur/",
-                    "quality": "SD"
+                    "quality": "HD"
                 }
             ]
         },
         {
             "title": "Attack on Titan LIVE ACTION SUB ITA  Episodio 2",
             "year": "",
-            "thumbnail": "",
+            "tmdb_idl": "",
             "links": [
                 {
                     "url": "https://verystream.com/e/3bgE4CxjbGe/",
-                    "quality": "SD"
+                    "quality": "HD"
                 }
             ]
         },
         {
             "title": "Terra Formars SUB ITA",
             "year": "",
-            "thumbnail": "",
+            "tmdb_idl": "",
             "links": [
                 {
                     "url": "https://verystream.com/e/WgN49J5F2Lg/",
-                    "quality": "SD"
+                    "quality": "HD"
                 }
             ]
         },
         {
             "title": "Lupin",
             "year": "",
-            "thumbnail": "",
+            "tmdb_idl": "",
             "links": [
                 {
                     "url": "https://verystream.com/e/fqtpu5v8CKD/",
-                    "quality": "SD"
+                    "quality": "HD"
                 }
             ]
         },
         {
             "title": "PARASYTE 1 L'ospite indesiderato",
             "year": "",
-            "thumbnail": "",
+            "tmdb_idl": "282069",
             "links": [
                 {
                     "url": "https://verystream.com/stream/fGe9bcKbbiP/",
-                    "quality": "SD"
+                    "quality": "HD"
                 }
             ]
         },
         {
             "title": "PARASYTE 2 L'ospite indesiderato",
             "year": "",
-            "thumbnail": "",
+            "tmdb_idl": "282070",
             "links": [
                 {
                     "url": "https://verystream.com/stream/hYChnffgfX8/",
-                    "quality": "SD"
+                    "quality": "HD"
+                }
+            ]
+        },
+        {
+            "title": "Gantz",
+            "year": "",
+            "tmdb_idl": "56832",
+            "links": [
+                {
+                    "url": "https://verystream.com/e/aNgj6FWWTix/",
+                    "quality": "HD"
+                },
+                {
+            "title": "Gantz Perfect Answer",
+            "year": "",
+            "tmdb_idl": "74135",
+            "links": [
+                {
+                    "url": "https://verystream.com/e/EmH2qobG6M7/",
+                    "quality": "HD"
+                }
+            ]
+        },
+        {
+            "title": "PARASYTE 2 L'ospite indesiderato",
+            "year": "",
+            "tmdb_idl": "",
+            "links": [
+                {
+                    "url": "https://verystream.com/stream/hYChnffgfX8/",
+                    "quality": "HD"
                 }
             ]
         },
         {
             "title": "RANMA 1/2",
             "year": "",
-            "thumbnail": "",
+            "tmdb_idl": "",
             "links": [
                 {
                     "url": "https://drive.google.com/file/d/0BzViY95DeURpUjcxc1pUbTBFQUE/view",
-                    "quality": "SD"
+                    "quality": "HD"
                 }
             ]
         }
     ]
 }
+
