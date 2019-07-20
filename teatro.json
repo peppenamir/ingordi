@@ -1,7 +1,7 @@
 {
     "movies_list": [
         {
-            "title": "Enrico Brignano in A SPROPOSITO DI NOI ",
+            "title": "Enrico Brignano in A SPROPOSITO DI NOI",
             "year": "",
             "thumbnail": "",
             "links": [
@@ -34,12 +34,56 @@
             ]
         },
         {
-            "title": "Enrico Brignano in A BRIGLIA SCIOLTA ",
+            "title": "Enrico Brignano in A BRIGLIA SCIOLTA",
             "year": "",
             "thumbnail": "",
             "links": [
                 {
                     "url": "https://www.youtube.com/watch?v=SWyY937Uj6U",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Enrico Brignano in SONO ITALIANO MA NON È COLPA MIA",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://www.youtube.com/watch?v=-nSNlHaAsXU",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Ficarra e Picone - Diciamoci La verità",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://www.youtube.com/watch?v=wJ8AIDbm5d4",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Ficarra e Picone - Sono Cose Che Capitano",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://www.youtube.com/watch?v=_E07XPdRD9U",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Ficarra E Picone - Vuoti A Perdere",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://www.youtube.com/watch?v=PZ0E99uZecw",
                     "quality": "SD"
                 }
             ]
